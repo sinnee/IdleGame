@@ -1,27 +1,26 @@
 # 프로젝트 개요
 ![BeatMaker](https://github.com/sinnee/Practice-UnityEdtiorProgramming/assets/40656425/6cb06540-1da0-4771-ac30-993187b66885)
 
-- 리듬 게임과 비트 패턴 입력 툴
-> 물건을 사용해서 연주하는 형태의 리듬게임
-> 리듬 게임 개발 시 비트 패턴을 툴을 이용해 작곡 프로그램과 비슷한 형태로 입력할 수 있는 툴을 개발해 쉽게 노트 패턴을 만들 수 있다
+- 기본적인 방치형 게임
+> 주기적으로 몬스터가 소환되고 플레이어는 자동으로 몬스터를 사냥
 
 ## 개발 기간
-- 2023 / 05 ~
+- 2023 / 08 / 10 ~ 2023 / 08 / 15
 
 ## 기술 스택
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
-## 주요 기능
-- BeatMaker 툴
-  - 작곡 프로그램과 비슷한 형태로 노트 패턴 생성
-  - 악보 데이터를 ScritalbleObject 형태로 저장
-  - 입력한 노트 패턴을 토대로 Hierarchy에 노트 패턴이 저장된 GameObject 생성
-- 노트 재생 및 판정
-  - 노트 패턴이 저장된 GameObject에서 노트 패턴을 불러와 재생
-  - 노트 패턴을 시간과 플레이어거 버튼을 누른 시간을 비교해서 등급 판정
+## 기능
+- 몬스터스포너와 캐릭터 스탯들의 수치를 인스펙터상에서 변경 가능
+- Scritable Object를 사용해서 캐릭터 스탯 구현
+- 게임을 플레이 하지 않은 시간에 비례해서 경험치 보상
 
-## 콘텐츠 생성 구조
-![image](https://github.com/sinnee/Practice-UnityEdtiorProgramming/assets/40656425/b7dc1de4-e359-403c-afd1-afb8af5f77d0)
+## Editor Programming
+![image](https://github.com/sinnee/IdleGame/assets/40656425/37b94cef-8f17-43b9-a59a-bb69d340f608)
+![image](https://github.com/sinnee/IdleGame/assets/40656425/2baf85d7-92b5-4de8-ab4b-26c1d362f143)
+
+
+
 
 
 ## Temp
