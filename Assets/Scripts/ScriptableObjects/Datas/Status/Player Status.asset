@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfaa0b0d5c370164d9e7b4e3fec3e3f3, type: 3}
+  m_Name: Player Status
+  m_EditorClassIdentifier: 
+  health: 100
+  attackPower: 5
+  attackPerSec: 1
+  attackCycle: 1
+  exp: 0
+  skillList:
+  - {fileID: 11400000, guid: d48d85a0a961b114ebc32f3f108a88e2, type: 2}
+  - {fileID: 11400000, guid: 2c7080e16d4b3014a9de8a55e2111f2b, type: 2}
+  - {fileID: 11400000, guid: c12e14c53148d9447ac65662f20d5482, type: 2}
+  level: 1
+  expMax: 40
