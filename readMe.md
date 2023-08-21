@@ -1,5 +1,6 @@
 # 프로젝트 개요
-![image](https://github.com/sinnee/IdleGame/assets/40656425/cba07e05-aa47-4403-bfaa-aef09a83a754)
+![image](https://github.com/sinnee/IdleGame/assets/40656425/d756111e-0456-4f6c-bc34-807710c59cb8)
+
 
 
 - 기본적인 방치형 게임
