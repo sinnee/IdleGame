@@ -1,5 +1,6 @@
 # 프로젝트 개요
-![BeatMaker](https://github.com/sinnee/Practice-UnityEdtiorProgramming/assets/40656425/6cb06540-1da0-4771-ac30-993187b66885)
+![image](https://github.com/sinnee/IdleGame/assets/40656425/17298055-d1ea-4263-affa-0e1a05a5cadd)
+
 
 - 기본적인 방치형 게임
 > 주기적으로 몬스터가 소환되고 플레이어는 자동으로 몬스터를 사냥
